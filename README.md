@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there , I'm Ivolbene Hassib 👋.
 
-<!--
-**IvolbeneH/IvolbeneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm Web Developer front-end. And, I'm studying web development at [Rocketseat](https://app.rocketseat.com.br), and at [UNIP](https://www.unip.br).
 
-Here are some ideas to get you started:
+#### Current Stack
+- Main language: `TypeScript`.
+- Back End: `Node JS`.
+- Front End: `Next.js`, `React`, `TypeScript`, `Tailwind`, `HTML5`.
+- Version code control and tools: `VS Code`, `Git`, `GitHub`, `Figma => for projects developments`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: ivolbene1@gmail.com
+- Linkedin: www.linkedin.com/in/ivolbene-hassib-3587472bb
+- Instagram: @ivoohsb
+
