@@ -7,7 +7,7 @@ I'm Web Developer front-end. And, I'm studying web development at [Rocketseat](h
 - Main language: `TypeScript`.
 - Back End: `Node JS`.
 - Front End: `Next.js`, `React`, `TypeScript`, `Tailwind`, `HTML5`.
-- Version code control and tools: `VS Code`, `Git`, `GitHub`, `Figma => for projects developments`.
+- Version code control and tools: `VS Code`, `Git`, `GitHub`, `Figma => for projects development`.
 
 #### Contacts
 - Email: ivolbene1@gmail.com
