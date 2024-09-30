@@ -5,7 +5,7 @@ I'm Web Developer front-end. And, I'm studying web development at [Rocketseat](h
 
 #### Current Stack
 - Main language: `TypeScript`.
-- Back End: `Prisma`, `Postgress`.
+- Back End: `Node.JS`, `Fastify`, `Prisma`, `SQL`, `Postgress`.
 - Front End: `Next.js`, `React`, `TypeScript`, `Tailwind`, `HTML5`.
 - Version code control and tools: `VS Code`, `Git`, `GitHub`, `Figma => for projects development`.
 
